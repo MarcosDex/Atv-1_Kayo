@@ -1,4 +1,4 @@
-# Projeto Banco de dados - E-Commerce (Lojas Desamericanas)
+# Atividade Kayo Monteiro - Dev Web
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -7,7 +7,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/marcosdex/Atv-1_Kayo?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/github/issues-pr-closed/marcosdex/Atv-1_Kayo?style=for-the-badge)
 
-<img src="https://github.com/MarcosDex/projeto-banco-de-dados-sebastiao/blob/master/images/Screenshot_6.png" alt="exemplo imagem">
 
 
 ### Ajustes e melhorias
